@@ -1,6 +1,6 @@
-#Bengali-Empathetic-LLaMA-3.1-FineTuning
+# Bengali-Empathetic-LLaMA-3.1-FineTuning
 
-#Fine-tuning LLaMA 3.1-8B-Instruct to generate empathetic responses in Bengali using Parameter-Efficient Fine-Tuning (PEFT) and the Unsloth framework.
+# Fine-tuning LLaMA 3.1-8B-Instruct to generate empathetic responses in Bengali using Parameter-Efficient Fine-Tuning (PEFT) and the Unsloth framework.
 
 🚀 Project Overview
 
